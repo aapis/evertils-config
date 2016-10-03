@@ -1,0 +1,7 @@
+templates:
+    Monthly:
+        "templates/monthly.enml"
+    Daily:
+        "templates/daily.enml"
+
+provider: Evernote
