@@ -3,13 +3,13 @@
 <li>...</li>
 </ul>
 <br />
+<div><span style="font-size: 18px;">Triage</span></div>
+<ul>
+<li>...</li>
+</ul>
+<br />
 <div><span style="font-size: 18px;">Meta</span></div>
 <ul>
-<li>Tasks Completed
-    <ul>
-        <li>...</li>
-    </ul>
-</li>
 <li>EOD
     <ul>
         <li><en-todo checked="false"/>Timecard is up to date</li>
