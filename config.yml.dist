@@ -5,3 +5,6 @@ templates:
         "templates/daily.enml"
 
 provider: Evernote
+required:
+    gpgKey: ""
+    yubikeySerial: ""
