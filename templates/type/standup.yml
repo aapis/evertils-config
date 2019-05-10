@@ -1,0 +1,14 @@
+name: standup
+notebook: Standup
+title: Standup For [%MONTH_NAME% %DAY% - %DOW_NAME%]
+sections:
+    header: nil
+    body:
+        - "`Done`"
+        - "`Next`"
+        - "`Blockers`"
+    footer: nil
+tags:
+    - day-%DOY%
+    - month-%MONTH%
+    - week-%WEEK%

@@ -1,0 +1,12 @@
+name: daily
+notebook: Daily
+title: Daily Log [%MONTH_NAME% %DAY% - %DOW_NAME%]
+sections:
+    header: nil
+    body:
+        - Triage
+    footer: nil
+tags:
+    - day-%DOY%
+    - month-%MONTH%
+    - week-%WEEK%
