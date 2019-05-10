@@ -1,0 +1,10 @@
+notebook: Weekly
+title: Weekly Log [%WEEK_START% - %WEEK_END%]
+sections:
+    header: nil
+    body:
+        - Logs
+    footer: nil
+tags:
+    - month-%MONTH%
+    - week-%WEEK%

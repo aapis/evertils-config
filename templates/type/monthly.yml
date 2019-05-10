@@ -1,0 +1,9 @@
+notebook: Daily
+title: Monthly Log [%MONTH_NAME% %YEAR%]
+sections:
+    header: nil
+    body:
+        - Notes
+    footer: nil
+tags:
+    - month-%MONTH%

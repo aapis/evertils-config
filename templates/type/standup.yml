@@ -1,4 +1,3 @@
-name: standup
 notebook: Standup
 title: Standup For [%MONTH_NAME% %DAY% - %DOW_NAME%]
 sections:

@@ -1,4 +1,3 @@
-name: daily
 notebook: Daily
 title: Daily Log [%MONTH_NAME% %DAY% - %DOW_NAME%]
 sections:
