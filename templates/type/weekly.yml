@@ -8,3 +8,4 @@ sections:
 tags:
     - month-%MONTH%
     - week-%WEEK%
+action: create

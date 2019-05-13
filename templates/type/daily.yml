@@ -9,3 +9,4 @@ tags:
     - day-%DOY%
     - month-%MONTH%
     - week-%WEEK%
+action: create

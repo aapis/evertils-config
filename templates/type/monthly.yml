@@ -7,3 +7,4 @@ sections:
     footer: nil
 tags:
     - month-%MONTH%
+action: create
