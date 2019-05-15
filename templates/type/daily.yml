@@ -1,7 +1,7 @@
 notebook: Daily
 title: Daily Log [%MONTH_NAME% %DAY% - %DOW_NAME%]
+action: create
 tags:
     - day-%DOY%
     - month-%MONTH%
     - week-%WEEK%
-action: create
