@@ -3,7 +3,7 @@ templates:
         "templates/monthly.enml"
     Daily:
         "templates/daily.enml"
-
+token: ""
 provider: Evernote
 required:
     gpgKey: ""
