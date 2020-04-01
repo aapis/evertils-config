@@ -1,11 +1,6 @@
 notebook: Weekly
 title: Weekly Log [%WEEK_START% - %WEEK_END%]
-sections:
-    header: nil
-    body:
-        - Logs
-    footer: nil
+action: create
 tags:
     - month-%MONTH%
     - week-%WEEK%
-action: create
