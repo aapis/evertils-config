@@ -1,0 +1,8 @@
+action: create_multiple
+notes:
+    -
+        label: Daily
+        path: '%EVERTILS_CONF_TYPE_PATH%/daily.yml'
+    -
+        label: Standup
+        path: '%EVERTILS_CONF_TYPE_PATH%/standup.yml'
