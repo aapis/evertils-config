@@ -1,9 +1,5 @@
-templates:
-    Monthly:
-        "templates/monthly.enml"
-    Daily:
-        "templates/daily.enml"
 token: ""
+gist_token: ""
 provider: Evernote
 required:
     gpgKey: ""
